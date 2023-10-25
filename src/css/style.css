@@ -55,25 +55,28 @@ main {
     border-radius: 50px;
     position: absolute;
     border: 5px solid white;
-    bottom: 440px;
+    bottom: 455px;
 }
 
-.descricao-numeros {
+.descricao-geral {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 10px 0 10px;
+}
+
+.descricao-geral h3 {
     text-align: center;
     display: flex;
     justify-content: space-around;
     margin: 25px 20px 5px 20px;
 }
 
-.descricao {
+.descricao-geral p {
     text-align: center;
     display: flex;
     justify-content: space-around;
     font-size: 12px;
     margin: 0px 20px 20px 20px;
-}
-
-.descricao p {
     font-size: 11px;
     letter-spacing: 1px;
 }

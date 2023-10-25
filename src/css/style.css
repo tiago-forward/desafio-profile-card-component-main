@@ -20,18 +20,19 @@ main {
     height: 100vh;
 }
 
-picture .bg-top {
+/* picture .bg-top {
+    position: fixed;
     width: 100%;
-    /* left: -970px;
-    bottom: 50px; */
-}
+    left: -600px;
+    bottom: 350px;
+} */
 
-picture .bg-bot {
+/* picture .bg-bot {
     display: flex;
     position: fixed; 
-    /* top: 600px;
-    right: -85px; */
-}
+    top: 600px;
+    right: -85px;
+} */
 
 .card-perfil {
     background-color: aliceblue;
@@ -69,6 +70,7 @@ picture .bg-bot {
     position: absolute;
     border: 5px solid white;
     bottom: 455px;
+    bottom: 49%;
 }
 
 .descricao-geral {

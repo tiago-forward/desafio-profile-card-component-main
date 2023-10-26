@@ -1,5 +1,8 @@
 body {
     background-color: var(--cor-fundo);
+    background-image: url(../image/bg-pattern-bottom.svg), url(../image/bg-pattern-top.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right -40px top 450px, left -40px bottom 370px;
 }
 
 p {
@@ -19,20 +22,6 @@ main {
     align-items: center;
     height: 100vh;
 }
-
-/* picture .bg-top {
-    position: fixed;
-    width: 100%;
-    left: -600px;
-    bottom: 350px;
-} */
-
-/* picture .bg-bot {
-    display: flex;
-    position: fixed; 
-    top: 600px;
-    right: -85px;
-} */
 
 .card-perfil {
     background-color: aliceblue;

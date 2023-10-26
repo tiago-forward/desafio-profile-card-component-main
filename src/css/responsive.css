@@ -1,0 +1,17 @@
+@media (max-width: 1440px) {
+    body {
+        background-position: right -420px top 320px, left -500px bottom 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        background-position: right -760px top 370px, left -760px bottom 500px;
+    }
+}
+
+@media (max-width: 375px) {
+    body {
+        background-position: right -760px top 370px, left -760px bottom 500px;
+    }
+}

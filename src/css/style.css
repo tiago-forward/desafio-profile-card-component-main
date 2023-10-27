@@ -1,17 +1,18 @@
 body {
-    background-color: var(--cor-fundo);
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: var(--cor-background);
     background-image: url(../image/bg-pattern-bottom.svg), url(../image/bg-pattern-top.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: right -40px top 450px, left -40px bottom 370px;
 }
 
 p {
-    color: var(--cor-paragrafo);
+    color: var(--cor-text);
     font-size: 13px;
 }
 
 span {
-    color: var(--cor-paragrafo);
+    color: var(--cor-text);
     font-weight: 400;
     padding-left: 3px;
 }
@@ -57,7 +58,7 @@ main {
 .img-foto {
     border-radius: 50px;
     position: absolute;
-    border: 5px solid white;
+    border: 5px solid aliceblue;
     bottom: 455px;
     bottom: 49%;
 }

@@ -18,7 +18,7 @@
 <img src="src/image/desktop-profile-card.png" alt="Gif do Desafio Funcionando">
 
 ### Desafio proposto
-<img src="design/desktop-design.jpg" alt="Gif do Desafio Funcionando">
+<img src="design/desktop-design.jpg" alt="Gif do Desafio Proposto">
 
 ## Status
 
